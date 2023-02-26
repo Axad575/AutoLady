@@ -211,6 +211,7 @@ box-shadow: -1px 9px 8px 0px rgba(34, 60, 80, 0.2);
     }
     #text{
         font-size: 32px;
+        margin-left: 5%;
     }
     #scrooldown{
         font-size: 50px;
